@@ -12,4 +12,4 @@
 
 ## Thinkcmf
 
-- [ ] 2.x缓存Getshell
+- [x] 2.x缓存Getshell
