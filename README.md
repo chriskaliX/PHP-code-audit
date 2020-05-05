@@ -13,3 +13,7 @@
 ## Thinkcmf
 
 - [x] 2.x缓存Getshell
+
+## PbootCMS
+
+- [x] v2.0.7 Getshell
