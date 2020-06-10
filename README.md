@@ -17,3 +17,7 @@
 ## PbootCMS
 
 - [x] v2.0.7 Getshell
+
+## Drupal
+
+- [x] CVE-2018-7600 RCE
